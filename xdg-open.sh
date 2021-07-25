@@ -2,8 +2,8 @@
 
 xdg-open / >> opens File System folder
 xdg-open /home/ >> opens home directory
-xdg-open . >> open current working directory
-xdg-open TEMP.ods >> open TEMP.ods with LibreOffice Calc (or user's preferred (default) application)
+xdg-open . >> opens current working directory
+xdg-open TEMP.ods >> opens TEMP.ods with LibreOffice Calc (or user's preferred (default) application)
 xdg-open "https://www.google.com/" >> opens www.google.com with default browser
 
 
